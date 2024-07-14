@@ -827,13 +827,11 @@ contact.html
 
 
 ## OUTPUT:
-![alt text](<Screenshot (19).png>)
+![output5](https://github.com/user-attachments/assets/ab758fcf-2435-42c1-86d0-c177dbc64903)
+![output4](https://github.com/user-attachments/assets/4120ae99-cd8c-47fd-ade3-e8dda8320436)
+![output3](https://github.com/user-attachments/assets/60d0f3c1-bebf-416a-bd5d-398a55ca717e)
+![output2](https://github.com/user-attachments/assets/e6c397af-89eb-460f-8b89-487358914225)
 
-![alt text](<Screenshot (20).png>)
-
-![alt text](<Screenshot (21).png>)
-
-![alt text](<Screenshot (23).png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
